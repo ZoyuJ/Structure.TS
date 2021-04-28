@@ -1,10 +1,10 @@
 {
-  "name": "Structure",
+  "name": "collection",
   "version": "0.0.1",
   "license": "MIT",
   "description": "",
   "author": {
-    "name": ""
+    "name": "ZoyuJ"
   },
   "files": [
     "./lib/*"
@@ -16,6 +16,5 @@
   "devDependencies": {
     "typescript": "^3.2.2"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
