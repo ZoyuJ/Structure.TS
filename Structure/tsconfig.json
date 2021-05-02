@@ -9,7 +9,7 @@
     "target": "es5",
     "declarationDir": "./lib/declaration",
     "lib": [ "ES2015" ],
-    "outDir": "./lib"
+    "outDir": "./bin"
   },
   "exclude": [
     "node_modules",
